@@ -66,8 +66,9 @@ section {
   border: 1px solid black;
   margin-top: 50px;
   margin-right: 50px;
-  margin-left: 20px;
-  width: 80%;
+  width: 90%;
+  position: relative;
+  float: right;
 }
 
 .button {
@@ -91,6 +92,7 @@ hr {
   margin: 2% 25%;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 /* --------------------------------- */
