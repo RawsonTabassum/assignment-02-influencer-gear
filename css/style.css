@@ -99,6 +99,7 @@ hr {
 /* --------------------------------- */
 /* 3rd section - grid */
 /* --------------------------------- */
+
 .title {
   text-align: center;
   font-weight: 600;
@@ -151,4 +152,24 @@ hr {
   color: gray;
   font-weight: 700;
   font-size: 14px;
+}
+
+/* --------------------------------- */
+/* footer */
+/* --------------------------------- */
+footer {
+  height: 240px;
+  background-color: rgb(14, 2, 34);
+  color: white;
+  padding-top: 25px;
+  text-align: center;
+}
+
+.f-heading {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.icon {
+  font-size: 20px;
 }
