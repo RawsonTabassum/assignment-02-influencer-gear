@@ -160,6 +160,14 @@ hr {
   font-size: 14px;
 }
 
+.para-right {
+  color: #e02c6d;
+  font-weight: 700;
+  position: relative;
+  float: right;
+  margin-right: 12%;
+}
+
 /* --------------------------------- */
 /* footer */
 /* --------------------------------- */
