@@ -41,18 +41,24 @@ section {
   color: #3a3a3a;
   margin: 10px 10% 70px 10%;
 }
+
 .flex-heading {
   display: flex;
   justify-content: space-between;
 }
 
-.flex-heading h1 {
+.heading h1 {
   width: 580px;
   margin-top: 140px;
   font-weight: 700;
   font-size: 52px;
   line-height: 70px;
   border: 1px solid black;
+  transition: all 0.5s ease-out;
+}
+
+h1:hover {
+  color: #e02c6d;
 }
 
 .para-text {
