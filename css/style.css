@@ -120,16 +120,23 @@ hr {
 
 .product {
   background-color: white;
+
+  box-shadow: 10px 5px 15px rgb(231, 231, 231);
+}
+
+.product img {
+  border-radius: 7px;
+  margin: 15px;
 }
 
 .product-name {
   font-weight: 500;
   font-size: 28px;
   color: #18191f;
-  margin: 5px 0;
+  margin: 5px 15px;
 }
 
 .product-price {
   font-size: 24px;
-  margin: 10px 0;
+  margin: 10px 15px;
 }
